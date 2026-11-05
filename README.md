@@ -1,5 +1,12 @@
 # ODM : cycle d'inférence RETE et boucle de règles
 
+![IBM ODM](https://img.shields.io/badge/IBM%20ODM-9.6-052FAD)
+![Java](https://img.shields.io/badge/Java-21-ED8B00?logo=openjdk&logoColor=white)
+![Rule engine](https://img.shields.io/badge/Rule%20engine-RetePlus-0A66C2)
+![Domaine](https://img.shields.io/badge/Domaine-SOC%20%2F%20SOAR-C0392B)
+![Diagrammes](https://img.shields.io/badge/Diagrammes-Mermaid-FF3670?logo=mermaid&logoColor=white)
+![Documentation](https://img.shields.io/badge/Documentation-Fran%C3%A7ais-lightgrey)
+
 Étude pratique avec **IBM Operational Decision Manager (ODM) 9.6** : comprendre comment le moteur de règles (algorithme RetePlus) gère la *Working Memory* et l'*Agenda*, pourquoi deux règles correctes isolément peuvent provoquer une boucle infinie, et comment la stabiliser.
 
 ## Problématique
