@@ -1,0 +1,9 @@
+definitions
+    set 'the room' to a room ;
+if
+    the temperature of 'the room' is less than the target temperature of 'the room'
+then
+    print "Heating " + the name of 'the room' ;
+    make it true that 'the room' is heating on ;
+    set the temperature of 'the room' to the target temperature of 'the room' + 1 ;
+    set the number of cycles of 'the room' to the number of cycles of 'the room' + 1 ;

@@ -1,0 +1,2 @@
+System.out.println("Inserting the room");
+insert new Room("Meeting room", 19.0, 20.0);
